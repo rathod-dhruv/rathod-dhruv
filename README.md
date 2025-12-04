@@ -1,10 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Dhruv+Rathod+👋;XR+Developer+%7C+Simulation+Engineer+%7C+Unity+%2B+C%23+%2B+C%2B%2B" />
-</h1>
+<h1 align="center">👋 Hey, I'm Dhruv Rathod</h1>
 
 <p align="center">
-  <strong>AR/VR Developer | Real-time Simulation Engineer | Unity, C#, C++</strong><br/>
-  📍 Based in USA | Open to full-time opportunities
+  <strong>XR Developer • Simulation Engineer • Unity | C# | C++</strong><br/>
+  Building immersive systems where AI, human interaction, and real-time graphics meet.
 </p>
 
 <p align="center">
@@ -21,112 +19,127 @@
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-- 🎓 **MS in Computer Graphics, Texas A&M University**  
-- 🛠 **3+ years building AR/VR simulations, XR training systems, and real-time apps**
-- 💼 Previously built immersive tech at:  
-  **Roche Diagnostics (Vision Pro), Explico (Driving Sim), HoloWorld (VR frameworks), TAMU (VR medical training)**  
-- 👾 Passionate about **spatial computing, teleoperation, interactive simulations, and human-centered XR**
-- 🧪 Hackathons:  
-  MIT Reality Hack, Stanford Immerse the Bay, Meta-sponsored events
+I'm an XR developer with industry and research experience building **real-time simulations, spatial computing prototypes, and immersive training systems**.  
 
----
+My journey spans:
 
-## 🧩 Skills & Tools
+- 🥽 **Vision Pro prototyping at Roche Diagnostics**  
+- 🚗 **Driving simulators with 6-DoF motion platform**  
+- 🧠 **AI-driven conversational VR training at Texas A&M**  
+- 🧤 **Full-body mocap, haptics, neural haptics & BCI integrations**  
+- 🕶 **XR frameworks & multi-platform apps at HoloWorld**
 
-### 🎮 **Programming**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,java" />
-</p>
-
-### 🕶 **XR Development**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=unity,unreal" />
-</p>
-
-- XR Interaction Toolkit  
-- VisionOS + RealityKit basics  
-- Motion capture, haptics, sensors, BCI  
-
-### 🖥 **Tools & Pipelines**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,linux,blender,firebase,figma" />
-</p>
+I’m passionate about **spatial computing**, **teleoperation**, **robotics UX**, **interactive simulations**, and building tools that augment human capability.
 
 ---
 
-## 🌟 Highlight Projects
+## 🏆 Recognitions & Achievements
+
+- 🎓 **Distinguished Student Award, Texas A&M University**  
+Received the Distinguished Student Award during my Master's program at Texas A&M University for outstanding academic achievement.
+
+- 🥇 **MIT Reality Hack 2025 – VR Passport Project**  
+  Spatial passport concept enabling persistent identity across XR worlds.
+
+- 🎖 **Honorable Mention - MIT Reality Hack 2024**  
+  Received honorable mention from Bezi for Healmotion project at MIT Reality Hack 2024, a premier XR hackathon.
+
+- 🎖 **PVFA Fall Show Feature - 2024**  
+  Apple Commercial Recreation project was featured at the PVFA Fall Show at Texas A&M University.
+
+---
+
+## 🎮 Technical Skills
+
+### **Core**
+- **Unity, C#, C++**
+- Gameplay systems, interaction design, tooling
+- Unreal Engine (beginner-intermediate)
+- Python (tools, CV/ML integrations)
+
+
+### **XR / Spatial Computing**
+- Apple Vision Pro (visionOS)
+- Meta Quest (XR Interaction Toolkit)
+- Motion capture: HoloSuit, Rokoko
+- Haptics: WeArt, Afference
+- BCI: OpenBCI integrations
+- -6DOF Motion Chair
+- Real-time physics & vehicle dynamics   
+
+### **Graphics**
+- Unity shaders (HLSL/ShaderGraph)  
+- Real-time rendering optimization  
+- Particle systems & visual effects  
+
+---
+
+## 🧪 Featured Projects
 
 ### 🩺 **AI-Driven VR Medical Training (TAMU)**
-Interactive VR system with  
-- Gamified medical workflows  
+Gamified VR modules teaching medical workflows with:
+- LLM-driven conversational patients  
+- Eye tracking & interaction analytics  
 - Haptic glove feedback  
-- Eye-tracking interactions  
-- LLM-based conversational patient simulation  
-
-➡ Improved training effectiveness by **15%**.
+- Firebase + Unity backend  
+**→ Increased training efficiency by ~15%**
 
 ---
 
 ### 🚗 **Driving Simulator with 6-DoF Motion Chair – Explico**
-- Vehicle physics, force feedback  
+- Realistic vehicle physics  
 - Custom C++ plugin  
-- Optimized Unity rendering → **18% better performance**
+- Steering + pedals + motion feedback  
+- Performance optimized by **18%**
 
 ---
 
-### 👨‍🌾 **Agricultural VR Framework – HoloWorld**
-- Custom framework for multi-project reuse  
-- VR assembly/disassembly simulators  
-- Reduced dev time **14%**  
-- Integrated HoloSuit full-body mocap
+### 🧤 **Full-Body Motion Capture Integration – HoloWorld**
+- C++ DLL integration for HoloSuit  
+- Custom XR framework used across 30+ apps  
+- Improved feature delivery time by **14%**
 
 ---
 
-### 🧑‍🏫 **Live Drawing App – Quest & Vision Pro**
-- Real-time synced teacher-student drawing  
-- Built for Oculus Quest & Apple Vision Pro  
-- Responsive UI + data sync + drawing gestures
+### 🎨 **Live Drawing Classroom – Quest & Vision Pro**
+- Real-time synced drawing  
+- Student–teacher multi-device mode  
+- Smooth pen simulation + line rendering  
 
 ---
 
-## 🧪 Research & Prototypes
+## 🧠 Hackathon Prototypes That I Loved Building
 
-- Conversational AI interactions in VR  
-- Neural haptics & BCI exploration  
-- Motion retargeting & full-body tracking  
-- Spatial UI prototyping for Vision Pro  
-
----
-
-## 🏆 Hackathons & Events
-
-### 🥽 **MIT Reality Hack ’25 — Finalist**
-Built “StabilityCoach”  
-- XR + wearable + neural haptic feedback  
-- Fall-prevention companion for seniors
-
-### 🎨 **Stanford XR — Immerse The Bay**
-- Vision Pro + passthrough AR  
-- Real-world anchored spatial experiences
+- **VR Passport** – persistent identity layer for spatial apps  
+- **StabilityCoach** – Vision Pro + neural haptics + mobility AI + OpenBCI experiment  
+- **Vision Pro Spatial Anchors Demo** – room-understanding AR   
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rathod-dhruv&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruv18999&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
 
+If you're building something in:
+- XR  
+- robotics  
+- teleoperation  
+- spatial computing  
+- human-AI interaction  
+
+I’d love to talk. Always open to collaborating.
+
 <p align="center">
   <a href="https://rathod-dhruv.me">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/dhruv18999">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/rathod-dhruv">LinkedIn</a> •
   <a href="mailto:rathod-dhruv@tamu.edu">Email</a>
 </p>
 
-<h3 align="center">⭐ Feel free to star my repositories if you like my work!</h3>
