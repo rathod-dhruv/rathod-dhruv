@@ -11,7 +11,7 @@
   <a href="https://rathod-dhruv.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/dhruv18999" target="_blank">
+  <a href="https://www.linkedin.com/in/rathod-dhruv" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rathod-dhruv@tamu.edu">
@@ -116,7 +116,7 @@ Built “StabilityCoach”
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruv18999&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rathod-dhruv&theme=tokyonight" />
 </p>
 
 ---
