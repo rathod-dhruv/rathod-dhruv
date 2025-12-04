@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I'm Dhruv Rathod</h1>
 
 <p align="center">
-  <strong>XR Developer • Simulation Engineer • Unity | C# | C++</strong><br/>
-  Building immersive systems where AI, human interaction, and real-time graphics meet.
+  <strong>XR Developer • Software Engineer • Unity | C# | C++</strong><br/>
+   Crafting immersive experiences and bridging the gap between imagination and reality through cutting edge technology.
 </p>
 
 <p align="center">
