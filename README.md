@@ -40,8 +40,8 @@ I’m passionate about **spatial computing**, **teleoperation**, **robotics UX**
 - 🎓 **Distinguished Student Award, Texas A&M University**  
 Received the Distinguished Student Award during my Master's program at Texas A&M University for outstanding academic achievement.
 
-- 🥇 **MIT Reality Hack 2025 – VR Passport Project**  
-  Spatial passport concept enabling persistent identity across XR worlds.
+- 🥇 **MIT Reality Hack 2025 – Winner - AeroSpatial Exploration track**  
+  VR Passport: Spatial passport concept enabling persistent identity across XR worlds.
 
 - 🎖 **Honorable Mention - MIT Reality Hack 2024**  
   Received honorable mention from Bezi for Healmotion project at MIT Reality Hack 2024, a premier XR hackathon.
