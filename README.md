@@ -118,14 +118,6 @@ Gamified VR modules teaching medical workflows with:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dhruv18999&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 If you're building something in:
